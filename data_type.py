@@ -13,4 +13,7 @@ print(a + d)
 print(f'{str(a)} {str(d)}')
 
 #python use utf 8
-# use assign boolean value to a variable 
+# use assign boolean value to a variable
+
+user_input = input('enter some name: ')
+print(f"{'hello: '} {user_input}")
